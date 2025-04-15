@@ -101,7 +101,7 @@ class Vehicle {
     }
 }
 
-// Car subclass
+
 class Car extends Vehicle {
     private int numDoors;
 
